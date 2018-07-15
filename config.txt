@@ -1,6 +1,6 @@
-token=MzQzNDgxNzA4ODQwMjIyNzMy.DeC1Hg.h549GNhdT1KnCa310US3DfsTcno
-owner=82997179416842240
+token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
+owner=103543965592064000
 prefix=!
-game=my.shoemakk.com/bot
+game=nexus.games
 stayinchannel=true
 songinstatus=true
