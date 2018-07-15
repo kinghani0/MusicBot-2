@@ -1,6 +1,6 @@
 token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
 owner=103543965592064000
-prefix=!
+prefix=?
 game=nexus.games
 stayinchannel=true
 songinstatus=true
