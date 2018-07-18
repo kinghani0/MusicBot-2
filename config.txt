@@ -4,4 +4,3 @@ prefix=!
 game=https://nexus.games
 stayinchannel=true
 songinstatus=true
-volume=10
