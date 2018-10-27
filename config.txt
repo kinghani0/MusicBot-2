@@ -1,6 +1,6 @@
 token=NTA1MTczMzU3NDk1NDUxNjc5.DrZcGg.MU8wCzlsNGfrJcfj8Z3emTQkEic
 owner=260937918653136906
-prefix=5
+prefix=3
 game=! ~'Nova Network
 stayinchannel=true
 songinstatus=true
