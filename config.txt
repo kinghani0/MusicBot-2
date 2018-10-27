@@ -1,6 +1,6 @@
-token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
-owner=103543965592064000
-prefix=!
-game=https://nexus.games
+token=NDk4ODk2NDk4MjczMjg4MTkz.DrZUPQ.J-b6IAzoodAZCXqUIKgycHucvuw
+owner=260937918653136906
+prefix=1
+game=! ~'Nova Network
 stayinchannel=true
 songinstatus=true
