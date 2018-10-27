@@ -1,4 +1,4 @@
-token=NTA1MTczMzU3NDk1NDUxNjc5.DrZbpQ.9vTnpExRXjpnk_Dw-CquYUNGdTk
+token=NTA1MTczMzU3NDk1NDUxNjc5.DrZcGg.MU8wCzlsNGfrJcfj8Z3emTQkEic
 owner=260937918653136906
 prefix=5
 game=! ~'Nova Network
