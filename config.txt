@@ -1,6 +1,6 @@
-token=NDk5NzQxNzUzODU5ODk5Mzk1.DsDtDg.RQUABAaBUhRowTi_fxbl4-9Du-c
+token=NDU5MTgxMjcwNDcyMDY1MDM0.DsDtJQ.So9Svr9WDhn0Fr7-EIuyylEP77Q
 owner=260937918653136906
-prefix=4
+prefix=5
 game=! ~'Luxx Community
 stayinchannel=true
 songinstatus=true
