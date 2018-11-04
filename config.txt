@@ -1,6 +1,6 @@
-token=Token
+token=NDk4ODk2NDk4MjczMjg4MTkz.DsDoLA.sPljl_DDj0LxCuuFnDmcUVD3MQk
 owner=260937918653136906
-prefix=5
-game=! ~'Nova Network
+prefix=1
+game=! ~'Luxx Community
 stayinchannel=true
 songinstatus=true
