@@ -1,6 +1,6 @@
-token=NDk5OTc1ODcwODIwMTIyNjQ0.DsEqqA.l4XtRA6qGUNDbWGBX4YnmFrUM0c
-owner=385529907226345482
-prefix=6
+token=Token
+owner=260937918653136906
+prefix=1
 game=! ~'EpicMusic, 6Play
 stayinchannel=true
 songinstatus=true
