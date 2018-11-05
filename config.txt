@@ -1,6 +1,6 @@
 token=TOKEN
-owner=260937918653136906
-prefix=g!
-game=! ~'Nothing
+owner=385529907226345482
+prefix=1
+game=! ~'EpicMusic, 1Play
 stayinchannel=true
 songinstatus=true
