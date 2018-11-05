@@ -1,4 +1,4 @@
-token=MjYwOTM3OTE4NjUzMTM2OTA2.DqEGMg.dZVNcJsGXzjpDK1_FW5aga9Llos
+token=TOKEN
 owner=260937918653136906
 prefix=g!
 game=! ~'Nothing
