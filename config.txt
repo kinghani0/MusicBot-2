@@ -1,6 +1,6 @@
-token=NTA4ODA5OTQ0MDU3Nzc0MDkw.DsEpzQ.Ek3fCg-ae6H-nHcUtaS4lSG1tsA
+token=NTA4ODEwMzY5NzM3OTQ5MTg0.DsEqIg.yx5T9L-q3NjmiDoBBDhsqZ15ZZg
 owner=385529907226345482
-prefix=1
-game=! ~'EpicMusic, 1Play
+prefix=2
+game=! ~'EpicMusic, 2Play
 stayinchannel=true
 songinstatus=true
