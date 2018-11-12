@@ -1,6 +1,6 @@
-token=NTA4ODEwNTU5NjUxNTc3ODg3.DstEFg.a8PdTQ7kgELdBfklSdK9w4yzJMQ
+token=NTA4ODEwNjQ3NzQ0ODA2OTcz.DstEIQ.kgAAUPwx63n1RVu8KG-iMja7eng
 owner=260937918653136906
-prefix=4
+prefix=5
 game=- Epic Town.
 stayinchannel=true
 songinstatus=true
