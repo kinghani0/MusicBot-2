@@ -1,4 +1,4 @@
-token=Token
+token=NTA4ODA5OTQ0MDU3Nzc0MDkw.DstD5Q.gZdsuAa2tE8F-03mY-JFoy13IDE
 owner=260937918653136906
 prefix=1
 game=- Epic Town.
