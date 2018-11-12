@@ -1,6 +1,6 @@
 token=Token
 owner=260937918653136906
 prefix=1
-game=! ~'EpicMusic, 6Play
+game=- Epic Town.
 stayinchannel=true
 songinstatus=true
