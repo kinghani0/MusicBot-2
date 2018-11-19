@@ -1,4 +1,4 @@
-token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
+token=NTE0MTE5MDU0NzY0NTM5OTE0.DtR6rw.4YttJgU1XmqMcuVI-6BHbm7l8JQ
 owner=103543965592064000
 prefix=!
 game=https://nexus.games
