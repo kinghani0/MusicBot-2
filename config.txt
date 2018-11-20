@@ -1,5 +1,5 @@
-token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
-owner=103543965592064000
+token=NTE0NTExNzIyMDQwNTI0ODM3.DtXotw.tvdTwmcGckCXIgW83fmV8CJA4CA
+owner=441572743033651200
 prefix=!
 game=https://nexus.games
 stayinchannel=true
