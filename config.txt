@@ -1,6 +1,6 @@
-token=NTE0NTExNzIyMDQwNTI0ODM3.DtXotw.tvdTwmcGckCXIgW83fmV8CJA4CA
+token=NTE0ODQyMTgyODU1Njg4MTkz.Dtcc4A.zWrIMdUY9pm7TuDZ2zUFGG8dCVQ
 owner=441572743033651200
-prefix=!!
-game=!!play
+prefix=!!!
+game=!!!play
 stayinchannel=true
 songinstatus=true
