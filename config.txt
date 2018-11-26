@@ -1,4 +1,4 @@
-token=NTE2NzA5MTU1NDExNzIyMjcy.Dt3mjQ.liU7WNAScm9tOqJmHfjZ4FzbbpI
+token=NTE0NTExNzIyMDQwNTI0ODM3.Dt3oDQ.Ti31mQ4rJBO7A3eCo_VZSO7p3vY
 owner=442458411779620874
 prefix=4
 game=Elite Community ,4play
