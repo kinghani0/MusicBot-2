@@ -1,4 +1,4 @@
-token=NTE2NzA1MzUyNzI1NTYxMzcw.Dt3jdQ.-LwsUdIyrxUR8VQeHOJGudVO6X8
+token=NTE0NTExNzIyMDQwNTI0ODM3.Dt3law.93rpNmQVyA8vLoc4z3vg0IcpcE0
 owner=442458411779620874
 prefix=3
 game=Elite Community ,3play
