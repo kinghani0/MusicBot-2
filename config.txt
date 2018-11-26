@@ -1,6 +1,6 @@
-token=NTE0NTExNzIyMDQwNTI0ODM3.Dt3UWw.8tgRPGznNj1U1znScOgK-5hAZhg
+token=NTE2NzA1MzUyNzI1NTYxMzcw.Dt3jdQ.-LwsUdIyrxUR8VQeHOJGudVO6X8
 owner=442458411779620874
-prefix=2
-game=Elite Community ,2play
+prefix=3
+game=Elite Community ,3play
 stayinchannel=true
 songinstatus=true
